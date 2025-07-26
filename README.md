@@ -1,2 +1,2 @@
 # api-backend
-API do Backend para a página de cadastro
+Api criada para o projeto: Cadastro de Usuários
